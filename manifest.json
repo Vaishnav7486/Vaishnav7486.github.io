@@ -1,0 +1,35 @@
+{
+   "name": "Vybes Lifestyle - Travel Gear Rentals",
+   "short_name": "Vybes Lifestyle - Travel Gear Rentals",
+   "start_url": ".",
+   "display": "standalone",
+   "background_color": "#0175C2",
+   "theme_color": "#0175C2",
+   "description": "Vybes is a travel gear rental platform that rents a wide range of products for camping, trekking, riding, luggages, essentials and more to satisfy the occasional travel gear needs of consumers.",
+   "orientation": "portrait-primary",
+   "prefer_related_applications": false,
+   "icons": [
+      {
+         "src": "icons/Icon-192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+      },
+      {
+         "src": "icons/Icon-512.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      },
+      {
+         "src": "icons/Icon-maskable-192.png",
+         "sizes": "192x192",
+         "type": "image/png",
+         "purpose": "maskable"
+      },
+      {
+         "src": "icons/Icon-maskable-512.png",
+         "sizes": "512x512",
+         "type": "image/png",
+         "purpose": "maskable"
+      }
+   ]
+}

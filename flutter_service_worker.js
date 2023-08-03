@@ -42,7 +42,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "5e571f9c78fd079512944f3918f47cff
 "assets/assets/images/right_aligned_images.png": "f2311d448a071d7267c485ef60e8fed0",
 "assets/assets/images/vybes_logo.png": "bc4f17c5890b5fe80a58aa5b5c6bac3b",
 "assets/FontManifest.json": "ae0a3a0ab7f14182d8c48d6e1690dd3b",
-"assets/fonts/MaterialIcons-Regular.otf": "c1868afb72602009893bdf2ac56b0207",
+"assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
 "assets/NOTICES": "3b1afd391df75bdf27fa14e82c6b6336",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
@@ -61,9 +61,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "5e571f9c78fd079512944f3918f47cff
 "icons/Icon-512.png": "0aca3fb16df892aff78e2e1079910a62",
 "icons/Icon-maskable-192.png": "7f043b7bb3b839446c7ea241e5117b2d",
 "icons/Icon-maskable-512.png": "0aca3fb16df892aff78e2e1079910a62",
-"index.html": "3b5c86da1ddf03cd545dd29c1a4f2093",
-"/": "3b5c86da1ddf03cd545dd29c1a4f2093",
-"main.dart.js": "940853ed7b2c54491a218bc490e7960e",
+"index.html": "9d859c285c0378ca56e76ba1e48381f4",
+"/": "9d859c285c0378ca56e76ba1e48381f4",
+"main.dart.js": "869f4c75b29047df1652b2170b6de9d6",
 "manifest.json": "802a732c508f9d294f7abf888b5b540e",
 "version.json": "bdc3162c567b52a68d7c1e30dc15d632"};
 // The application shell files that are downloaded before a service worker can
